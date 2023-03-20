@@ -46,7 +46,6 @@
 
 ## Stats
 ![Funk3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Funk3&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Funk3&hide_progress=true&theme=github_dark)](https://github.com/Funk3/github-readme-stats)
 
-  ![](https://komarev.com/ghpvc/?username=Funk3&color=58A6FF)
+![](https://komarev.com/ghpvc/?username=Funk3&color=58A6FF)
 
