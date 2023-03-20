@@ -11,8 +11,10 @@
 
 ## 📫 How to reach me 👇
 - <a href='https://www.linkedin.com/in/zak-johansson/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=flat&logo=linkedin&logoColor=white&labelColor=0072b1&color=0072b1'/></a> 
-- <a href='mailto:zak.johansson@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/Email-100000?style=flat&logo=gmail&logoColor=white&labelColor=DB4437&color=DB4437'/></a>
 - <a href='www.zakj.ca' target="_blank"><img alt='firefox' src='https://img.shields.io/badge/Website-100000?style=flat&logo=firefox&logoColor=white&labelColor=E66000&color=E66000'/></a>
+- <a href='https://resume.creddle.io/resume/9auaegc7g31' target="_blank"><img alt='indeed' src='https://img.shields.io/badge/Resume-100000?style=flat&logo=indeed&logoColor=white&labelColor=003A9B&color=003A9B'/></a>
+- <a href='mailto:zak.johansson@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/Email-100000?style=flat&logo=gmail&logoColor=white&labelColor=DB4437&color=DB4437'/></a>
+
 
 
 ## 🛠 Skills
@@ -28,6 +30,9 @@
 ### Version Control and OS
 <img src='https://github.com/Funk3/Funk3/blob/test/svg/git-svgrepo-com.svg' width="35" height="35"> Git <img src='https://github.com/Funk3/Funk3/blob/test/svg/debian-svgrepo-com.svg' width="35" height="35"> Debian <img src='https://github.com/Funk3/Funk3/blob/test/svg/arch-svgrepo-com.svg' width="35" height="35"> Arch <img src='https://github.com/Funk3/Funk3/blob/test/svg/windows-azure-svgrepo-com.svg' width="35" height="35"> Windows <img src='https://github.com/Funk3/Funk3/blob/test/svg/figma-svgrepo-com.svg' width="35" height="35"> Figma <img src='https://github.com/Funk3/Funk3/blob/test/svg/vscode-svgrepo-com.svg' width="35" height="35"> VScode
 
+## Stats
+![Funk3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Funk3&show_icons=true&theme=github_dark)
+![](https://komarev.com/ghpvc/?username=Funk3&color=58A6FF)
 <!--
 **Funk3/Funk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
