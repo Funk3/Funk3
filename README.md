@@ -7,7 +7,7 @@
 ⚡  If I am not coding, I am riding my bike training for this year's Gran Fondo, or working on learning something new on my home server!
 
 📫 How to reach me 👇
-[![Linkedin Badge](https://img.shields.io/badge/-Zak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakjohansson/) [![Mail Badge](https://img.shields.io/badge/-Zak-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zak.johansson@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Zak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zak-johansson/) [![Mail Badge](https://img.shields.io/badge/-Zak-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zak.johansson@gmail.com)
 
 
 <!--
