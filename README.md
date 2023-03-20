@@ -5,7 +5,7 @@
 
 🌱 I am currently learning Typescript and Rust!
 
-💻  Currently project is "I'm Board", a MERN app (MongoDB, Express, React, and Node.js) that is Padmapper for board games! Use a map to find where you can play your games, and use the calendar to know when! 
+💻  Current project is "I'm Board", a MERN app (MongoDB, Express, React, and Node.js) that is Padmapper for board games! Use a map to find where you can play your games, and use the calendar to know when! 
 
 ⚡  If I am not coding, I am riding my bike training for this year's Gran Fondo, or working on learning something new on my home server (Debian for life)!
 
