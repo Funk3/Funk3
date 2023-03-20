@@ -18,12 +18,15 @@
 ## 🛠 Skills
 
 ### Languages
-[Javascript]()
+<img src='https://github.com/Funk3/Funk3/blob/test/svg/javascript-svgrepo-com.svg' width="35" height="35"> Javascript <img src='https://github.com/Funk3/Funk3/blob/test/svg/typescript-svgrepo-com.svg' width="35" height="35"> Typescript <img src='https://github.com/Funk3/Funk3/blob/test/svg/html-5-svgrepo-com.svg' width="35" height="35"> HTML 5 <img src='https://github.com/Funk3/Funk3/blob/test/svg/css-svgrepo-com.svg' width="35" height="35"> CSS 3 <img src='https://github.com/Funk3/Funk3/blob/test/svg/python-svgrepo-com.svg' width="35" height="35"> Python 
 ### Frameworks and Libraries
+<img src='https://github.com/Funk3/Funk3/blob/test/svg/node2-svgrepo-com.svg' width="35" height="35"> Node.JS <img src='https://github.com/Funk3/Funk3/blob/test/svg/react-javascript-js-framework-facebook-svgrepo-com.svg' width="35" height="35"> React <img src='https://github.com/Funk3/Funk3/blob/test/svg/angular-icon-svgrepo-com.svg' width="35" height="35"> Angular <img src='https://github.com/Funk3/Funk3/blob/test/svg/rails-svgrepo-com.svg' width="35" height="35"> Ruby On Rails <img src='https://github.com/Funk3/Funk3/blob/test/svg/express-svgrepo-com.svg' width="35" height="35"> Express <img src='https://github.com/Funk3/Funk3/blob/test/svg/jquery-svgrepo-com.svg' width="35" height="35"> jQuery <img src='https://github.com/Funk3/Funk3/blob/test/svg/ejs-svgrepo-com.svg' width="35" height="35"> EJS <img src='https://github.com/Funk3/Funk3/blob/test/svg/sass-svgrepo-com.svg' width="35" height="35"> Sass <img src='https://github.com/Funk3/Funk3/blob/test/svg/tailwind-svgrepo-com.svg' width="35" height="35"> Tailwind
 ### Databases
+<img src='https://github.com/Funk3/Funk3/blob/test/svg/postgresql-svgrepo-com.svg' width="35" height="35"> PostgreSQL <img src='https://github.com/Funk3/Funk3/blob/test/svg/mongo-svgrepo-com.svg' width="35" height="35"> MongoDB
 ### Testing
+<img src='https://github.com/Funk3/Funk3/blob/test/svg/rspec-svgrepo-com.svg' width="35" height="35"> Rspec <img src='https://github.com/Funk3/Funk3/blob/test/svg/mocha-svgrepo-com.svg' width="35" height="35"> Mocha <img src='https://github.com/Funk3/Funk3/blob/test/svg/chai-svgrepo-com.svg' width="35" height="35"> Chai <img src='https://github.com/Funk3/Funk3/blob/test/svg/cypress-svgrepo-com.svg' width="35" height="35"> Cypress <img src='https://github.com/Funk3/Funk3/blob/test/svg/storybook-icon-svgrepo-com.svg' width="35" height="35"> Storybook <img src='https://github.com/Funk3/Funk3/blob/test/svg/jest-svgrepo-com.svg' width="35" height="35"> Jest
 ### Version Control and OS
-
+<img src='https://github.com/Funk3/Funk3/blob/test/svg/git-svgrepo-com.svg' width="35" height="35"> Git <img src='https://github.com/Funk3/Funk3/blob/test/svg/debian-svgrepo-com.svg' width="35" height="35"> Debian <img src='https://github.com/Funk3/Funk3/blob/test/svg/arch-linux-svgrepo-com.svg' width="35" height="35"> Arch <img src='https://github.com/Funk3/Funk3/blob/test/svg/windows-azure-svgrepo-com.svg' width="35" height="35"> Windows <img src='https://github.com/Funk3/Funk3/blob/test/svg/figma-svgrepo-com.svg' width="35" height="35"> Figma <img src='https://github.com/Funk3/Funk3/blob/test/svg/rails-svgrepo-com.svg' width="35" height="35"> VScode
 
 <!--
 **Funk3/Funk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
