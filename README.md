@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Funk3&color=58A6FF)
 # Hi, I'm Zak 👋
 
 ## 🚀 About me 
@@ -43,8 +44,3 @@
 <img src='https://github.com/Funk3/Funk3/blob/test/svg/git-svgrepo-com.svg' width="35" height="35"> |<img src='https://github.com/Funk3/Funk3/blob/test/svg/debian-svgrepo-com.svg' width="35" height="35"> |<img src='https://github.com/Funk3/Funk3/blob/test/svg/arch-svgrepo-com.svg' width="35" height="35"> |<img src='https://github.com/Funk3/Funk3/blob/test/svg/windows-azure-svgrepo-com.svg' width="35" height="35"> |
 |--|--|--|--|
 |Git|Debian|Arch|Windows|
-## Stats
-![Funk3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Funk3&show_icons=true&theme=github_dark)
-
-![](https://komarev.com/ghpvc/?username=Funk3&color=58A6FF)
-
